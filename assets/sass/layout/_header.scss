@@ -1,0 +1,33 @@
+
+
+
+.header__title {
+
+    font-family: $playfair;
+    font-weight: $bolditalic;
+    color:$white;
+    font-size: $xx-large;
+    padding: 4rem;
+    margin:4rem;
+
+
+
+}
+
+
+.header {
+
+    background-image: url('../img/post-image.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+
+.header_container {
+
+
+    padding: 1rem;
+    text-align: center;
+}

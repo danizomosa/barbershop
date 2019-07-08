@@ -1,0 +1,46 @@
+.section-primary__post{
+
+
+    padding: 4rem;
+    margin: 4rem;
+    line-height: 2em;
+    color:$nickel;
+}
+
+
+.section-primary__post a:visited {
+    color: $ruddypink;
+    text-decoration: none;
+
+}
+
+
+
+.section-primary__date {
+    font-family: $playfair;
+    font-size: $medium;
+
+
+
+}
+
+.section-primary__author img {
+
+    border-radius: 50%;
+    border: solid 1px $lightgray;
+
+}
+
+.section-primary__author h3 {
+
+    font-family: $playfair;
+    font-weight: 900;
+
+}
+
+.section-primary__ h4 {
+
+
+    text-decoration: none;
+    color:red;
+}

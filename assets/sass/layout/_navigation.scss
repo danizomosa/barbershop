@@ -1,0 +1,25 @@
+.navbar {
+    background-color: $eerieblack;
+    position: fixed;
+    width: 100vw;
+  
+    a {
+      color: $white;
+      margin: .4rem;
+    }
+  
+    .current {
+      color: $ruddypink;
+    }
+  
+    img {
+      height: 5rem;
+    }
+  
+
+  
+    &-toggler {
+      border: 0px;
+      margin-right: 10px;
+    }
+  }
